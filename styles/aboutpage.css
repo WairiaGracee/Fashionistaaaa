@@ -1,0 +1,18 @@
+#page-header.about-header{
+    background-image:url(../images/backgrounds/kaleb-tapp-J59wWPn09BE-unsplash.jpg);
+}
+
+#about-head{
+    display: flex;
+    align-items: center;
+}
+
+#about-head img{
+    width: 50%;
+    height: auto;
+}
+
+#about-head div{
+    padding-left: 40px;
+    
+}
